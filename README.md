@@ -57,6 +57,18 @@ I am a **[your year] student at [your college]**, majoring in **[your branch]**.
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amalendu7407/Amalendu7407/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amalendu7407/Amalendu7407/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Amalendu7407/Amalendu7407/output/github-snake-dark.svg" />
+</picture>
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Description | Tech |
