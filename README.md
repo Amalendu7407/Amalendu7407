@@ -92,6 +92,21 @@ I'm a **competitive programmer** who loves solving hard problems, mostly in **C+
 
 <div align="center">
 
+<!-- Official GitHub achievement badges -->
+<a href="https://github.com/Amalendu7407?achievement=pull-shark&tab=achievements"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull Shark" width="90" title="Pull Shark"/></a>
+<a href="https://github.com/Amalendu7407?achievement=yolo&tab=achievements"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" width="90" title="YOLO"/></a>
+
+<br/>
+
+| Badge | How I earned it |
+|---|---|
+| 🦈 **Pull Shark** | Got pull requests merged |
+| 🎲 **YOLO** | Merged a pull request without a review |
+| ⭐ **GitHub Pro** | Using GitHub Pro |
+
+<br/>
+
+<!-- Auto-generated achievements card (needs the metrics workflow to run once) -->
 <img src="./github-achievements.svg" alt="GitHub achievements"/>
 
 </div>
