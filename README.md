@@ -73,7 +73,7 @@ I'm a **competitive programmer** who loves solving hard problems, mostly in **C+
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amalendu7407&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
+<img src="./github-calendar.svg" alt="GitHub contribution calendar"/>
 
 </div>
 
@@ -92,7 +92,7 @@ I'm a **competitive programmer** who loves solving hard problems, mostly in **C+
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amalendu7407&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=7" alt="GitHub trophies"/>
+<img src="./github-achievements.svg" alt="GitHub achievements"/>
 
 </div>
 
@@ -112,18 +112,14 @@ I'm a **competitive programmer** who loves solving hard problems, mostly in **C+
 
 ## 🚀 Featured projects
 
-<div align="center">
-
-<a href="https://github.com/Amalendu7407/Competetive-Programming"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Amalendu7407&repo=Competetive-Programming&theme=tokyonight&hide_border=true" alt="Competetive-Programming"/></a>
-<a href="https://github.com/Amalendu7407/ATS-CHEKER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Amalendu7407&repo=ATS-CHEKER&theme=tokyonight&hide_border=true" alt="ATS-CHEKER"/></a>
-<br/>
-<a href="https://github.com/Amalendu7407/Vedic-Site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Amalendu7407&repo=Vedic-Site&theme=tokyonight&hide_border=true" alt="Vedic-Site"/></a>
-<a href="https://github.com/Amalendu7407/LEARN-PYTHON"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Amalendu7407&repo=LEARN-PYTHON&theme=tokyonight&hide_border=true" alt="LEARN-PYTHON"/></a>
-<br/>
-<a href="https://github.com/Amalendu7407/study-with-node.js"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Amalendu7407&repo=study-with-node.js&theme=tokyonight&hide_border=true" alt="study-with-node.js"/></a>
-<a href="https://github.com/Amalendu7407/ATS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Amalendu7407&repo=ATS&theme=tokyonight&hide_border=true" alt="ATS"/></a>
-
-</div>
+| Project | Description | Tech |
+|---|---|---|
+| [**Competetive-Programming**](https://github.com/Amalendu7407/Competetive-Programming) | My solutions to competitive programming problems | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| [**ATS-CHEKER**](https://github.com/Amalendu7407/ATS-CHEKER) | Resume / ATS score checker | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**ATS**](https://github.com/Amalendu7407/ATS) | Applicant tracking system project | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Vedic-Site**](https://github.com/Amalendu7407/Vedic-Site) | Vedic themed website | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| [**LEARN-PYTHON**](https://github.com/Amalendu7407/LEARN-PYTHON) | Python practice and notes | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**study-with-node.js**](https://github.com/Amalendu7407/study-with-node.js) | Node.js learning projects | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
