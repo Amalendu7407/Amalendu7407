@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Amalendu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40" alt="Amalendu" width="100%"/>
+<h1>Amalendu</h1>
 
-### Competitive Programmer &nbsp;·&nbsp; Full Stack Developer
+<!-- Auto-changing text: edit the lines= part (use + for spaces, %26 for &, %2B for +) -->
+<a href="https://github.com/Amalendu7407">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Competitive+Programmer;C%2B%2B+Problem+Solver;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+</a>
 
-<a href="#about">About</a> &nbsp;•&nbsp;
-<a href="#tech-stack">Tech Stack</a> &nbsp;•&nbsp;
-<a href="#projects">Projects</a> &nbsp;•&nbsp;
-<a href="#github-activity">GitHub Activity</a> &nbsp;•&nbsp;
-<a href="#achievements">Achievements</a>
+<br/><br/>
+
+<a href="#about"><img src="https://img.shields.io/badge/About-0E75B6?style=flat-square" alt="About"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-0E75B6?style=flat-square" alt="Tech Stack"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-0E75B6?style=flat-square" alt="Projects"/></a>
+<a href="#github-activity"><img src="https://img.shields.io/badge/GitHub%20Activity-0E75B6?style=flat-square" alt="GitHub Activity"/></a>
+<a href="#achievements"><img src="https://img.shields.io/badge/Achievements-0E75B6?style=flat-square" alt="Achievements"/></a>
 
 <br/><br/>
 
@@ -121,6 +126,28 @@ I'm a **competitive programmer** who enjoys solving hard problems, mostly in **C
       <b><a href="https://github.com/Amalendu7407/study-with-node.js">study-with-node.js</a></b><br/>
       Node.js learning projects.<br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/Amalendu7407/QuizApp">QuizApp</a></b><br/>
+      Quiz application.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/Amalendu7407/project1">project1</a></b><br/>
+      JavaScript project.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/Amalendu7407/Project2">Project2</a></b><br/>
+      JavaScript project (collaborative).<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://github.com/Amalendu7407?tab=repositories"><b>View all repositories →</b></a>
     </td>
   </tr>
 </table>
