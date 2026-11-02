@@ -123,6 +123,28 @@ I'm a **competitive programmer** who enjoys solving hard problems, mostly in **C
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
     </td>
   </tr>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/Amalendu7407/QuizApp">QuizApp</a></b><br/>
+      Quiz application.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/Amalendu7407/project1">project1</a></b><br/>
+      JavaScript project.<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/Amalendu7407/Project2">Project2</a></b><br/>
+      JavaScript project (collaborative).<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://github.com/Amalendu7407?tab=repositories"><b>View all repositories →</b></a>
+    </td>
+  </tr>
 </table>
 
 <br/>
