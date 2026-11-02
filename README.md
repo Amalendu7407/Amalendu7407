@@ -64,32 +64,23 @@ I'm a **competitive programmer** who enjoys solving hard problems, mostly in **C
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td width="170"><b>Programming Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" alt="Programming languages"/></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend"/></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Databases"/></td>
-  </tr>
-  <tr>
-    <td><b>Cloud &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux" alt="Cloud and DevOps"/></td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/></td>
-  </tr>
-</table>
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" alt="Programming languages"/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="Frontend"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="Databases"/>
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux" alt="Cloud and DevOps"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/>
 
 <br/>
 
