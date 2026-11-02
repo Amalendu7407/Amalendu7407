@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Welcome to my GitHub" width="100%"/>
+
 <h1>Amalendu</h1>
 
 <!-- Auto-changing text: edit the lines= part (use + for spaces, %26 for &, %2B for +) -->
